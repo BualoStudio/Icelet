@@ -1,6 +1,6 @@
 # 小冰岛
 
-![icelet-logo](icelet-readme-bg.png)
+![icelet-logo](background/icelet-readme-bg.png)
 
 > 基于 TurboWarp 的跨平台统一UI框架，专为《本水塘》打造。
 
