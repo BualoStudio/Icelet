@@ -23,6 +23,7 @@
 - macOS X 10.4 及更高版本
 - Linux 主流的发行版
 - ChromeOS 132 及更高版本
+- HarmonyOS 5 及更高版本
 
 ---
 
