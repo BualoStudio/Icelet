@@ -74,7 +74,7 @@
 > 参与前，请务必阅读我们的 [贡献指南](https://github.com/BualoStudio/Icelet/CONTRIBUTING.md) 并遵守 [行为准则](https://github.com/BulaoStudio/Icelet/CODE_OF_CONDUCT.md)。
 
 > [!NOTE]
-> 由于 TurboWarp 的单一源文件限制，请不要直接对源文件提交 Pull Request。但你可以将 Bug 提交到 [Issue](https://github.com/BualoStudio/Icelet/Issue)。
+> 由于 TurboWarp 的单一源文件限制，请不要直接对源文件提交 Pull Request。但你可以将 Bug 提交到 [Issue](https://github.com/BualoStudio/Icelet/issues)。
 
 ---
 
@@ -86,7 +86,7 @@
 
 ## 📜 开源许可证
 
-作为《本水塘》项目的一部分，小冰岛遵循《本水塘》在代码资产方面使用的 [MIT License](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/code-license)，详见 [LICENSE 文件](https://github.com/BualoStudio/Icelet/blob/main/LICENSE)。
+作为《本水塘》项目的一部分，小冰岛遵循《本水塘》在代码资产方面使用的 [MIT License](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/code-license)，详见 [LICENSE](https://github.com/BualoStudio/Icelet/blob/main/LICENSE) 文件。
 
 > [!TIP]
 > 关于《本水塘》的美术资产/音乐资产和代码资产（不同资产类别）使用的不同的许可证及授权方式，请转到 [本水塘资产使用的许可证](https://github.com/BualoStudio/TheNativePond/blob/main/LICENSE)。
@@ -97,8 +97,8 @@
 
 ### 🪪 开发团队：Bualo Studio（浮标工作室）
 
-制作组官方邮箱： thenativepond@gmail.com  
-工作室官方邮箱： bualostudio@gmail.com  
+- 制作组官方邮箱： [thenativepond@gmail.com](mailto:thenativepond@gmail.com)
+- 工作室官方邮箱： [bualostudio@gmail.com](mailto:bualostudio@gmail.com) 
 
 ### 🖥️ 开发人员
 
