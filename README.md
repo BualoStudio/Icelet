@@ -8,13 +8,13 @@
 
 [English]() | 简体中文
 
-**小冰岛** 是由 **Bualo Studio（浮标工作室）** 开发的一款基于 [TurboWarp](https://turbowarp.org) 的跨平台统一UI框架，也是专为 [《**本水塘**》](https://github.com/BualoStudio/TheNativePond) 打造的**游戏引擎**。本引擎旨在使用现代的 Web 技术将一个完整的游戏通过 TurboWarp 打包为单一HTML文件，并以此实现全平台覆盖。
+**小冰岛** 是由 **Bualo Studio（浮标工作室）** 开发的一款基于 [**TurboWarp**](https://turbowarp.org) 的跨平台统一UI框架，也是专为 [《**本水塘**》](https://github.com/BualoStudio/TheNativePond) 打造的**游戏引擎**。本引擎旨在使用现代的 Web 技术将一个完整的游戏通过 TurboWarp 打包为单一HTML文件，并以此实现全平台覆盖。
 
 ---
 
 ## 🖥️ 拟支持的平台
 
-理论上，任何基于小冰岛制作的游戏都能实现**全平台覆盖**，只要这个平台能够完美支持HTML5或更高版本。在此列出部分受支持的操作系统平台：
+理论上，任何基于小冰岛制作的游戏都能实现**全平台覆盖**，只要这个平台能够完美支持 HTML5 或更高版本。在此列出部分受支持的操作系统平台：
 
 - Android 2.0 及更高版本
 - iOS 3.0 及更高版本
@@ -71,10 +71,10 @@
 2. **新功能建议**：为引擎提出新的功能构思和设想，亦或是仅提出建议。
 
 > [!TIP]
-> 参与前，请务必阅读我们的 [贡献指南](https://github.com/BualoStudio/Icelet/CONTRIBUTING.md) 并遵守 [行为准则](https://github.com/BulaoStudio/Icelet/CODE_OF_CONDUCT.md)。
+> 参与前，请务必阅读我们的 [**贡献指南**](https://github.com/BualoStudio/Icelet/CONTRIBUTING.md) 并遵守 [**行为准则**](https://github.com/BulaoStudio/Icelet/CODE_OF_CONDUCT.md)。
 
 > [!NOTE]
-> 由于 TurboWarp 的单一源文件限制，请不要直接对源文件提交 Pull Request。但你可以将 Bug 提交到 [Issue](https://github.com/BualoStudio/Icelet/issues)。
+> 由于 TurboWarp 的单一源文件限制，请不要直接对源文件提交 Pull Request。但你可以将 Bug 提交到 [**Issue**](https://github.com/BualoStudio/Icelet/issues)。
 
 ---
 
@@ -86,10 +86,10 @@
 
 ## 📜 开源许可证
 
-作为《本水塘》项目的一部分，小冰岛遵循《本水塘》在代码资产方面使用的 [MIT License](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/code-license)，详见 [LICENSE](https://github.com/BualoStudio/Icelet/blob/main/LICENSE) 文件。
+作为《本水塘》项目的一部分，小冰岛遵循《本水塘》在代码资产方面使用的 [**MIT License**](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/code-license)，详见 [**LICENSE**](https://github.com/BualoStudio/Icelet/blob/main/LICENSE) 文件。
 
 > [!TIP]
-> 关于《本水塘》的美术资产/音乐资产和代码资产（不同资产类别）使用的不同的许可证及授权方式，请转到 [本水塘资产使用的许可证](https://github.com/BualoStudio/TheNativePond/blob/main/LICENSE)。
+> 关于《本水塘》的美术资产/音乐资产和代码资产（不同资产类别）使用的不同的许可证及授权方式，请转到 [**本水塘资产使用的许可证**](https://github.com/BualoStudio/TheNativePond/blob/main/LICENSE)。
 
 ---
 
