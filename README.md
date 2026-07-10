@@ -6,9 +6,9 @@
 
 [![License](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/BualoStudio/Icelet/LICENSE) [![Platform](https://img.shields.io/badge/Platform-ALL-blue.svg)](https://github.com/BualoStudio/Icelet) [![Release](https://img.shields.io/badge/Release-None-yellow.svg)](https://github.com/BualoStudio/Icrlet/releases) [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](https://github.com/BualoStudio/Icelet/discussions)
 
-| 简体中文 |
+[English]() | 简体中文
 
-**小冰岛** 是由 **Bualo Studio（浮标工作室）** 开发的一款基于 [TurboWarp](https://turbowarp.org) 的跨平台统一UI框架，也是专为《**本水塘**》打造的**游戏引擎**。本引擎旨在使用各种现代技术手段将一个完整的游戏通过 TurboWarp 打包为单一HTML文件，并以此实现全平台覆盖。
+**小冰岛** 是由 **Bualo Studio（浮标工作室）** 开发的一款基于 [TurboWarp](https://turbowarp.org) 的跨平台统一UI框架，也是专为 [《**本水塘**》](https://github.com/BualoStudio/TheNativePond) 打造的**游戏引擎**。本引擎旨在使用现代的 Web 技术将一个完整的游戏通过 TurboWarp 打包为单一HTML文件，并以此实现全平台覆盖。
 
 ---
 
@@ -78,34 +78,40 @@
 
 ---
 
+## 📊 项目状态
+
+![Alt](https://repobeats.axiom.co/api/embed/4ad480de538762f57afb780cd7441253316c1d61.svg "Repobeats analytics image")
+
+---
+
 ## 📜 开源许可证
 
-作为《本水塘》项目的一部分，小冰岛遵循《本水塘》在代码资产方面使用的 [MIT License](https://mit-license.org/)。
+作为《本水塘》项目的一部分，小冰岛遵循《本水塘》在代码资产方面使用的 [MIT License](https://github.com/BualoStudio/TheNativePond/blob/main/docs/about/license/code-license)，详见 [LICENSE 文件](https://github.com/BualoStudio/Icelet/blob/main/LICENSE)。
 
 > [!TIP]
-> 关于《本水塘》的美术资产/音乐资产和代码资产（不同资产类别）使用的不同的许可证及授权方式，请转到 [本水塘资产使用的许可证]()。
+> 关于《本水塘》的美术资产/音乐资产和代码资产（不同资产类别）使用的不同的许可证及授权方式，请转到 [本水塘资产使用的许可证](https://github.com/BualoStudio/TheNativePond/blob/main/LICENSE)。
 
 ---
 
 ## 💌 关于
 
-### 开发团队：Bualo Studio（浮标工作室）
+### 🪪 开发团队：Bualo Studio（浮标工作室）
 
-制作组官方邮箱： thenativepond@gmail.com
-工作室官方邮箱： bualostudio@gmail.com
+制作组官方邮箱： thenativepond@gmail.com  
+工作室官方邮箱： bualostudio@gmail.com  
 
-### 开发人员
+### 🖥️ 开发人员
 
 #### [Crazy Sue](https://github.com/CrazySue)
 - 工程师
 - 编程开发
 - UI/UX设计
 
-### 特此感谢
+### 🫶 特此感谢
 
 #### [awa_Liny](https://github.com/awaLiny2333)
 - awa_Liny 开发的游戏《今日极地湾》为小冰岛的UI/UX设计风格提供了大量灵感和美术素材。
 
 ---
 
-*由 Crazy Sue 用❤️制作。由 Bualo Studio 鼎力支持。
+*由 Crazy Sue 用❤️制作。由 Bualo Studio 鼎力支持。*
