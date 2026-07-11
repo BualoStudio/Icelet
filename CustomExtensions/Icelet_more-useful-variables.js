@@ -1,3 +1,5 @@
+// Made by Bualo Studio. This software is open-sourced under the MIT License. It is a component of Icelet. For details, see https://github.com/BualoStudio/Icelet. 
+
 (function(Scratch) {
     'use strict';
 
