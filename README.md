@@ -71,7 +71,7 @@
 2. **新功能建议**：为引擎提出新的功能构思和设想，亦或是仅提出建议。
 
 > [!TIP]
-> 参与前，请务必阅读我们的 [**贡献指南**](https://github.com/BualoStudio/Icelet/CONTRIBUTING.md) 并遵守 [**行为准则**](https://github.com/BulaoStudio/Icelet/CODE_OF_CONDUCT.md)。
+> 参与前，请务必阅读我们的 [**贡献指南**](https://github.com/BualoStudio/Icelet/blob/main/.github/CONTRIBUTING.md) 并遵守 [**行为准则**](https://github.com/BualoStudio/Icelet/blob/main/.github/CODE_OF_CONDUCT.md)。
 
 > [!NOTE]
 > 由于 TurboWarp 的单一源文件限制，请不要直接对源文件提交 Pull Request。但你可以将 Bug 提交到 [**Issue**](https://github.com/BualoStudio/Icelet/issues)。
