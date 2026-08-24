@@ -8,6 +8,9 @@
 
 [English]() | 简体中文
 
+> [!WARNING]
+> 由于不可抗力因素，小冰岛现已终止开发，我们正在寻找新的游戏引擎或技术实现方法来为本水塘提供技术支持。详情请阅读小冰岛终止开发公告：[《突然的完结，就像青春一样》](https://github.com/BualoStudio/Icelet/releases/tag/TheEnding)。
+
 **小冰岛** 是由 **Bualo Studio（浮标工作室）** 开发的一款基于 [**TurboWarp**](https://turbowarp.org) 的跨平台统一UI框架，也是专为 [《**本水塘**》](https://github.com/BualoStudio/TheNativePond) 打造的**游戏引擎**。本引擎旨在使用现代的 Web 技术将一个完整的游戏通过 TurboWarp 打包为单一HTML文件，并以此实现全平台覆盖。
 
 ---
