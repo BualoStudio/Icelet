@@ -2,7 +2,7 @@
 
 ![icelet-logo](background/icelet-readme-bg.png)
 
-> A cross-platform unified UI framework based on TurboWarp, specifically designed for "The Native Pond".
+> A cross-platform unified UI framework based on TurboWarp, specifically designed for _The Native Pond_.
 
 [![License](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/BualoStudio/Icelet/LICENSE) [![Platform](https://img.shields.io/badge/Platform-ALL-blue.svg)](https://github.com/BualoStudio/Icelet) [![Release](https://img.shields.io/badge/Release-None-yellow.svg)](https://github.com/BualoStudio/Icrlet/releases) [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](https://github.com/BualoStudio/Icelet/discussions)
 
