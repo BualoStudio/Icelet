@@ -112,6 +112,7 @@
 ### 🖥️ 开发人员
 
 #### [Crazy Sue](https://github.com/CrazySue)
+
 - 工程师
 - 编程开发
 - UI/UX设计
@@ -119,6 +120,7 @@
 ### 🫶 特此感谢
 
 #### [awa_Liny](https://github.com/awaLiny2333)
+
 - awa_Liny 开发的游戏《今日极地湾》为小冰岛的 UI/UX 设计风格提供了大量灵感和美术素材。
 
 ---
