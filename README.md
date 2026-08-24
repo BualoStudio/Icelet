@@ -11,7 +11,7 @@ English | [简体中文](https://github.com/BualoStudio/Icelet/edit/main/README-
 > [!WARNING]
 > Due to unforeseen circumstances, Little Iceland has ceased development. We are currently seeking a new game engine or technical implementation method to provide technical support for this game. For details, please read the Icelet termination announcement: ["A Sudden Ending, Like Youth Itself"](https://github.com/BualoStudio/Icelet/releases/tag/TheEnding).
 
-**Icelet** was a cross-platform unified UI framework based on [**TurboWarp**](https://turbowarp.org)](https://turbowarp.org), developed by **Bualo Studio**. It was also a **game engine** specifically designed for [《**This Game**](https://github.com/BualoStudio/TheNativePond)]. This engine aimed to use modern web technologies to package a complete game into a single HTML file using TurboWarp, thereby achieving cross-platform compatibility.
+**Icelet** was a cross-platform unified UI framework based on [**TurboWarp**](https://turbowarp.org), developed by **Bualo Studio**. It was also a **game engine** specifically designed for [**The Native Pond**](https://github.com/BualoStudio/TheNativePond)]. This engine aimed to use modern web technologies to package a complete game into a single HTML file using TurboWarp, thereby achieving cross-platform compatibility.
 
 ---
 
