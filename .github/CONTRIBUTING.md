@@ -1,6 +1,9 @@
 # CONTRIBUTING
 
-Hello! Thank you for your interest in contributing to _The Native Pond_. This guide will help you get started.
+Hello! Thank you for your interest in contributing to Icelet. This guide will help you get started.
+
+> [!WARNING]
+> You are contributing to Icelet, the game engine built specifically for The Native Pond. If you would like to contribute to The Native Pond, please read [The Native Pond Contributing](https://github.com/BualoStudio/TheNativePond/blob/main/.github/CONTRIBUTING.md).
 
 ## 0. 📖 Prerequisites
 
