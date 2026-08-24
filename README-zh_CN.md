@@ -6,7 +6,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/BualoStudio/Icelet/LICENSE) [![Platform](https://img.shields.io/badge/Platform-ALL-blue.svg)](https://github.com/BualoStudio/Icelet) [![Release](https://img.shields.io/badge/Release-None-yellow.svg)](https://github.com/BualoStudio/Icrlet/releases) [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](https://github.com/BualoStudio/Icelet/discussions)
 
-[English]() | 简体中文
+[English](https://github.com/BualoStudio/Icelet/edit/main/README.md) | 简体中文
 
 > [!WARNING]
 > 由于不可抗力因素，小冰岛现已终止开发，我们正在寻找新的游戏引擎或技术实现方法来为本水塘提供技术支持。详情请阅读小冰岛终止开发公告：[《突然的完结，就像青春一样》](https://github.com/BualoStudio/Icelet/releases/tag/TheEnding)。
