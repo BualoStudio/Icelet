@@ -125,4 +125,4 @@ As part of _The Native Pond_ project, Little Iceland follows the [**MIT License*
 
 ---
 
-*Made with ❤️ by Crazy Sue. Powered by Bualo Studio. *
+*Made with ❤️ by Crazy Sue. Powered by Bualo Studio.*
