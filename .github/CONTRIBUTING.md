@@ -86,7 +86,6 @@ As usual, commit your contributions to your forked repository. Different contrib
 
 .  
 ├── extensions/          JavaScript custom extensions  
-├── docs/                Documentation  
 ├── LICENSE  
 └── README.md  
 
